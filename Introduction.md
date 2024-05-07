@@ -19,7 +19,7 @@
 - Abstraction
 - Polymorphism
 
-###Javascript Specifics
+### Javascript Specifics
 
 - JS is NOT a traditional "OOP Language"
 - "Classes" are built on top of Prototypes
